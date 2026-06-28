@@ -1,1 +1,1 @@
-End to end ml projects
+Beginner friendly Linear regression model
