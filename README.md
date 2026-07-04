@@ -1,4 +1,6 @@
-# 📊 Linear Regression Project
+# 📊 My all ML projects :
+
+## Linear Regression Project
 
 ## 📌 Overview
 This repository demonstrates a beginner-friendly implementation of **Linear Regression** using Python. The project predicts salaries based on years of experience, showcasing how machine learning models can be applied to real-world datasets.
