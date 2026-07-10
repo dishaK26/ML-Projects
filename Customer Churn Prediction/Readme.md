@@ -62,8 +62,4 @@ Churn prediction helps businesses identify customers likely to leave, enabling p
 If you have suggestions or how can I improve this, lets' connect:
 ✉️ dishabpps@gmail.com
 
----
 
-👉 This README is **professional, concise, and interview‑ready**. It shows you understand the **end‑to‑end ML pipeline**: preprocessing → modeling → evaluation → deployment.
-
-Would you like me to also prepare a **short “Elevator Pitch” version** (3–4 lines) of this README, so you can quickly explain the project in interviews without going into full detail?
